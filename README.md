@@ -1,4 +1,4 @@
-# Self-healing-test-framework
+# Self-healing-test-framework 
 The Project contains examples of how it is possible to specify dynamic locators that can self-heal for open-source Web UI Testing Frameworks, such as those with Selenium-Webdriver.
 
 This project is managed with Maven in Java 8. Third-party libraries include JUnit, TestNG, Selenium-Webdriver 3, JSoup, and FuzzyWuzzy for lexical fuzzy matching.
