@@ -1,0 +1,29 @@
+{
+  "url": "http://localhost:7800/bootstrap1.html",
+  "fields": [
+    {
+      "id": 1,
+      "label": "First Name",
+      "type": "field",
+      "data": "Janet"
+    },
+    {
+      "id": 2,
+      "label": "Last Name",
+      "type": "field",
+      "data": "Kim"
+    },
+    {
+      "id": 3,
+      "label": "Username",
+      "type": "field",
+      "data": "J_Kim"
+    },
+    {
+      "id": 4,
+      "label": "City",
+      "type": "field",
+      "data": "Birmingham"
+    }
+  ]
+}
